@@ -20,8 +20,8 @@ Por este motivo cree esta app, para que la comunidad de usuarios y el propio Mou
 #### INICIO
 Podréis encontrar una página principal con un formulario para recomendar diferentes plugins. En él, habrá que introducir el nombre, una breve descripción, la url del mismo, la url de una imagen del plugin (puede ser la propia marketplace de VSCode) o una propia y un desplegable con las diferentes categorías.
 
-(./assets/image_index_desk.png)
-(./assets/image_index_mobile.png)
+![Index Desk](https://github.com/AlbertoAIG/vscode_gallery/blob/main/assets/image_index_desk.png)
+![Index Mobile](https://github.com/AlbertoAIG/vscode_gallery/blob/main/assets/image_index_mobile.png)
 
 #### GALERÍA
 En cada página de la galería, podréis encontrar las recomendaciones de la comunidad clasificadas por categorías:
@@ -33,8 +33,8 @@ En cada página de la galería, podréis encontrar las recomendaciones de la com
 - Others
 
 
-(./assets/image_gallery_desk.png)
-(./assets/image_gallery_mobile.png)
+![Gallery Desk](https://github.com/AlbertoAIG/vscode_gallery/blob/main/assets/image_gallery_desk.png)
+![Gallery Mobile](https://github.com/AlbertoAIG/vscode_gallery/blob/main/assets/image_gallery_mobile.png)
 
 
 ### TECNOLOGÍA	
