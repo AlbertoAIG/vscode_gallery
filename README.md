@@ -4,7 +4,7 @@
 Desplegado sobre la URL:
 
 [https://vscodegallery.reflex.run
-](url)
+](https://vscodegallery.reflex.run)
 
 
 ### PRETENSIÓN
