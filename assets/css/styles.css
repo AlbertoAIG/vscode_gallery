@@ -1,0 +1,34 @@
+
+/* Eliminar en futuras versiones de Reflex */
+:root,
+.light {
+    background-image:url('/background.png');
+    background-repeat: repeat-y;
+}
+.light-theme { 
+    background-image:url('/background.png');
+    background-repeat: repeat-y;
+}
+.dark{
+    background-image:url('/background.png');
+    background-repeat: repeat-y;}
+.dark-theme {
+    background-image:url('/background.png');
+    background-repeat: repeat-y;
+}
+
+.background {
+    background-image:url('/background.png');
+    /* background-repeat: repeat-y; */
+}
+
+.boxground{
+    background-color: #1f1f1f;
+}
+.translucid{
+    background: rgba(22, 22, 22, 0.3);
+}
+
+.separator {
+    border-top: 1px solid #ffffff; /* Cambia el color del separador a rojo */
+}
