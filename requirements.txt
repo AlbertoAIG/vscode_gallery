@@ -1,4 +1,8 @@
-reflex==0.4.9
+cloudpickle==2.2.1
+docker==7.0.0
+numpy==1.26.3
 python-dotenv==1.0.1
+pytz==2024.1
+reflex==0.4.9
 supabase==2.4.3
-pip==24.0
+tzdata==2023.4
