@@ -1,7 +1,0 @@
-*.db
-*.py[cod]
-.web
-__pycache__/
-.env
-.DS_Store
-.gitignore
